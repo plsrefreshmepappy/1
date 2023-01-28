@@ -314,6 +314,9 @@ function App() {
             {/* <s.TextTitle>
               Mint time: 11 AM UTC 22/01/2023
             </s.TextTitle> */}
+            <s.SpacerLarge />
+            <s.SpacerLarge />
+            <s.SpacerLarge />
 
 
 
